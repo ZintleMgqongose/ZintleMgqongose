@@ -24,7 +24,7 @@
 ## Business Communication
 ### Evidence
 
-(https://github.com/ZintleMgqongose/ZintleMgqongose/blob/main/Business_Communication.png)
+https://github.com/ZintleMgqongose/ZintleMgqongose/blob/main/Business_Communication.png
 
 
 ### Reflection
@@ -38,8 +38,7 @@
 
 ## Interview Skills
 ### Evidence
-
-
+https://github.com/ZintleMgqongose/ZintleMgqongose/blob/main/Interview_Skills.png
 
 ### Reflection
 Situation: I used to feel anxious during interviews. Although I understood the technical aspects, I struggled to present my examples effectively, especially for behavioral questions. I often went off-topic or neglected to include the outcomes, which weakened my responses.
