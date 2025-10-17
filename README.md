@@ -24,7 +24,7 @@
 ## Business Communication
 ### Evidence
 
-![Evidence]([Screenshot 2025-10-17 at 17.44.16.png](https://github.com/ZintleMgqongose/ZintleMgqongose/blob/main/Screenshot%202025-10-17%20at%2017.44.16.png))
+([Screenshot 2025-10-17 at 17.44.16.png](https://github.com/ZintleMgqongose/ZintleMgqongose/blob/main/Screenshot%202025-10-17%20at%2017.44.16.png))
 
 
 ### Reflection
