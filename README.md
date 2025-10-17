@@ -1,16 +1,14 @@
-## Hi there 👋
+## Digital Portfolio
+## Hi there, I'm Zintle👋
 
-<!--
-**ZintleMgqongose/ZintleMgqongose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a third-year student in ICT Application Development at CPUT, driven by a passion for learning.
 
-Here are some ideas to get you started:
+💡 Constantly eager to expand my knowledge and skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently developing a Salon Booking System and an Online Car Auction Web Application.
+
+🌱 Exploring Spring Boot and Data Analytics as part of my learning journey.
+
+📫 Feel free to reach out: zintle.mgqongose3@gmail.com
+
+
