@@ -74,17 +74,30 @@ https://github.com/ZintleMgqongose/ZintleMgqongose/blob/main/Professional_Networ
 
 ### Reflection
 
+S – I had very little experience with professional networking and didn’t have a consistent or polished online presence. I wasn’t sure how to approach professionals in my field or how to present my work credibly on platforms like LinkedIn.
+
+T – My aim was to create a strong and professional online image, learn how to reach out to people in my industry effectively, and develop proper networking habits such as writing personalized messages, following up respectfully, and offering value in my interactions.
+
+A – I completed the Professional Networking training, revamped my LinkedIn profile to highlight my key projects and responsibilities, and crafted a personalized message template for connection requests. I also joined professional groups, followed thought leaders, and interacted regularly with posts by commenting and sharing relevant content to stay visible and engaged. Additionally, I practiced holding informational conversations to confidently connect with professionals.
+
+R – Today, my LinkedIn profile clearly reflects my technical strengths and achievements. I’ve expanded my network by connecting with classmates and professionals in the field, and I now understand how to build and maintain relationships through meaningful, value-focused communication. Networking has become an intentional and rewarding part of my career growth rather than something I avoided.
 
 
 
 ## CWorkplace Etiquette
 ### Evidence
 
-
+https://github.com/ZintleMgqongose/ZintleMgqongose/blob/main/Workplace_Etiquette.png
 
 ### Reflection
 
+S – Entering the workplace with only limited experience from my first qualification was already a challenge, but it became even more difficult after COVID-19 changed many professional norms. Remote work, virtual meetings, and new communication styles made it unclear what behaviours were now expected, from punctuality in online settings to professional etiquette in hybrid environments. I wanted to adapt and make a good impression despite these changes.
 
+T – My objective was to understand modern workplace expectations after COVID-19, including professional appearance (both in-person and online), punctuality, clear and respectful digital communication, confidentiality, teamwork, and conflict resolution in virtual or hybrid settings.
+
+A – I completed the Workplace Etiquette lessons, participated in group projects (both online and in person) to apply these behaviours, and sought feedback from peers about my communication and reliability. I also developed a personal checklist to stay professional in any setting — such as preparing for virtual meetings, managing time zones, responding promptly, and keeping written records of key discussions.
+
+R – I now confidently meet post-COVID workplace expectations. I communicate effectively across digital platforms, maintain professionalism in hybrid environments, and manage time and responsibilities responsibly. These habits have improved collaboration, strengthened trust with teammates, and helped me adjust to the evolving modern workplace.
 
 
 
