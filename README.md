@@ -103,7 +103,7 @@ R – Today, my LinkedIn profile clearly reflects my technical strengths and ach
 
 ---
 
-## CWorkplace Etiquette
+## Workplace Etiquette
 ### Evidence
 
 https://github.com/ZintleMgqongose/ZintleMgqongose/blob/main/Workplace_Etiquette.png
