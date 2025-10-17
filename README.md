@@ -88,6 +88,9 @@ Task: My goal was to replicate a real interview setting to assess my communicati
 Action: I took part in a timed mock interview that included both behavioral and technical rounds. During the interview, I focused on maintaining good posture, making eye contact, managing my breathing, and delivering concise STAR responses. Afterward, I sought feedback from the interviewer on the clarity of my answers, the relevance of my examples, and my tone. I used this feedback to refine my responses and practiced follow-up questions to enhance my conversational style.
 
 Result: The mock interview significantly reduced my anxiety and highlighted subtle habits, like using filler words and rushing my conclusions. With the feedback I received, I was able to enhance my STAR examples by including clearer metrics and insights. Now, my overall interview presence is more balanced—prepared yet relaxed—and I can easily shift from technical specifics to a broader impact when necessary.
+
+
+
 ---
 
 
