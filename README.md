@@ -5,7 +5,7 @@
 
 💡 Constantly eager to expand my knowledge and skills.
 
-🛠️ Currently developing an Online Car Auction Web Application.
+🛠️ Currently developing NotTheOne Web Application (Personal).
 
 🌱 Exploring Spring Boot and Data Analytics as part of my learning journey.
 
