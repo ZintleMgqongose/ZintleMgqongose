@@ -1,7 +1,7 @@
 ## Digital Portfolio
 ### Hi there, I'm Zintle the girl in TECH👋
 
-🎓 I’m a third-year student in ICT Application Development at CPUT, driven by a passion for learning.
+🎓I am a graduate in ICT Application Development from CPUT, currently pursuing an Advanced Diploma, driven by a passion for continuous learning.
 
 💡 Constantly eager to expand my knowledge and skills.
 
