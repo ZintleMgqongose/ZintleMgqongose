@@ -5,7 +5,7 @@
 
 💡 Constantly eager to expand my knowledge and skills.
 
-🛠️ Currently developing Savora Application (Personal).
+🛠️ Currently developing AuraAI (Personal).
 
 🌱 Exploring Spring Boot and Data Analytics as part of my learning journey.
 
